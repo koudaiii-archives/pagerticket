@@ -24,6 +24,11 @@ gem 'jbuilder', '~> 2.5'
 # gem 'bcrypt', '~> 3.1.7'
 
 gem 'pagerduty-full'
+gem 'httparty'
+gem 'dotenv'
+gem 'dotenv-rails'
+gem 'pry'
+gem 'hashie'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
